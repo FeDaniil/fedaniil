@@ -27,6 +27,11 @@
 - [2024: ROS, Python, Docker Compose] [«Я - профессионал» по робототехнике](https://gitlab.com/fedaniil/iprofi2024-robot-final)
 
 Бортовое ПО для автономного управления мобильным роботом, завоевавшее мне диплом призёра «Я - профессионал». Робот под управлением ROS, бортовой контроллер моторов на Arduino взаимодействовал с Raspberry через Unix сокет. Для автономного управления реализовал распознавание препятствий с помощью OpenCV. Стек технологий: ROS, Python 3, OpenCV, Bash, Docker Compose (для упрощённого заливания прошивки на робота).
+
+Проекты с [Bitbucket](https://bitbucket.com/fedaniil):
+- [2020-2021: C++] [Алгоритмы и структуры данных, а также ООП из МФТИ](https://bitbucket.org/FeDaniil/mipt-algo/src/master/)
+
+В этом репозитории собраны решения задач с соответствующих курсов ФПМИ МФТИ. Все задачи проходили тщательное код ревью, что можно посмотреть в [пулл реквестах](https://bitbucket.org/FeDaniil/mipt-algo/pull-requests/?state=ALL). Код содержит комментарии для проверяющего, для алгоритмов нужно было писать структуры данных (например, `class Graph` вместо `vector<vector<int>>`). Папка OOP содержит структуры для курса Ильи Мещерина по C++, мне всё ещё нравится реализация [быстрого аллокатора и списка](https://bitbucket.org/FeDaniil/mipt-algo/src/master/OOP/fastallocator_list/fastallocator.h), [реализация хэштаблицы](https://bitbucket.org/FeDaniil/mipt-algo/src/master/OOP/UnorderedMap/unordered_map.h) показывает весёлое метапрограммирование.
 <!--
 **FeDaniil/fedaniil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
